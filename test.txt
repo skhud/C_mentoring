@@ -17,3 +17,4 @@ from main
 new feature
 >>>>>>> feature
 123  - feature2
+21 06  - feature2
